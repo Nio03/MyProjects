@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'psiqly';
+
+  email: string = '';
+  onSubmit() {
+    console.log('Correo electrónico enviado:', this.email);
+    // Aquí iría la lógica para iniciar la evaluación psicológica
+  }
 }
