@@ -1,0 +1,1 @@
+Every branch is and independent project. I know that's not how git and github works. But for me is the best way to keep every project organized until github lets you arrange your repositories in folders
